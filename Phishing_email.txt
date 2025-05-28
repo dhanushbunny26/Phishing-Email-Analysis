@@ -1,0 +1,7 @@
+﻿Return-Path: <alert@micr0s0ft.com>
+Received: from unknown (192.168.0.15)
+Received-SPF: fail (domain of micr0s0ft.com does not designate 123.45.67.89 as permitted sender)
+Authentication-Results: dmarc=fail header.from=micr0s0ft.com
+From: alert@micr0s0ft.com
+To: user@example.com
+Subject: Your account is locked
