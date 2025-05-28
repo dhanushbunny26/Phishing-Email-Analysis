@@ -1,4 +1,4 @@
-# Phising-Email-Analysis
+# Phishing-Email-Analysis
 Header Analysis Results
 
 - *SPF Failed*: Email was not sent from an authorized IP for micr0s0ft.com
