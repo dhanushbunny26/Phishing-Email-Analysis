@@ -1,6 +1,5 @@
 # Phishing-Email-Analysis
-Header Analysis Results
-# Task 2: Phishing Email Analysis
+Phishing Email Analysis
 
 ## Objective
 To identify phishing characteristics in a suspicious email by analyzing the sender, email content, and header information.
